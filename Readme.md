@@ -7,6 +7,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # A master-detail grid with editing capabilities with XPO data
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e418/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates the ASPxGridView and eXpress Persistent Objects collaboration in a Master-Detail scenario.</p>
